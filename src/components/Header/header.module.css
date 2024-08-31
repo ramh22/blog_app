@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: center;
+ padding-left: 100px;
+    gap:20px
+}
+.container a{
+    font-size: 22px;
+    padding: 0 30px;
+    min-height: 100vh;
+    text-decoration: none;
+}
